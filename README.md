@@ -66,6 +66,6 @@ Foram feitos 1 de saques da conta.
 
 ## 👨‍💻 Autor
 
-Feito com ❤️ por Matheus de Souza Soares(https://github.com/FledWriter3840)
+Feito com ❤️ por Matheus de Souza Soares (https://github.com/FledWriter3840)
 
 
